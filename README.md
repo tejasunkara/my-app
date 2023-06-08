@@ -8,5 +8,5 @@ cd my-app
 npm start
 
 # Currently sharing pseudonymous usage data. The following command will disable this feature entirely:
-#    ng analytics disable
+ng analytics disable
 
