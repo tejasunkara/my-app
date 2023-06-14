@@ -7,6 +7,7 @@ ng new my-app
 cd my-app
 npm start
 
+#https://www.primefaces.org/primeng-v14-lts/setup
  npm install primeng@14.0.0 --force
  npm install primeicons
 
