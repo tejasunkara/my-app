@@ -7,6 +7,9 @@ ng new my-app
 cd my-app
 npm start
 
+ npm install primeng@14.0.0 --force
+ npm install primeicons
+
 # Currently sharing pseudonymous usage data. The following command will disable this feature entirely:
 ng analytics disable
 
