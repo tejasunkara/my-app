@@ -8,7 +8,7 @@ cd my-app
 npm start
 
 #https://www.primefaces.org/primeng-v14-lts/setup
- npm install primeng@14.0.0 --force
+ npm install primeng@16.0.0 --force
  npm install primeicons
 
 # Currently sharing pseudonymous usage data. The following command will disable this feature entirely:
